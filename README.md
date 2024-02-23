@@ -25,10 +25,6 @@ Allowed options:
 + собрать и поместить `service_dll.dll` например в `C:\test`
 + запустить netcat, поймать reverse shell
 
-## Запись результата
-
-+ после перезагрузки, нажмите `ESC`, далее `C:\mbr.bin` будет содержать dump MBR
-
 ## Пример работы
 
 ![alt text](/img/service.gif)
